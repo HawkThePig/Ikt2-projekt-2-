@@ -1,0 +1,20 @@
+1, Dia 
+
+Általános alapszerkezet
+
+HTML 5 szabvány, magyar nyelvezet beállítása, UTF-8 karakterkészlet kiosztása.
+
+
+Készíts egy 3x3-s táblázat, amelynek az első sora feléc lesz 
+
+Készíts egy hivatkozást, amely rámutat a köetkező weboldalra: https://www.google.com ( Új ablak jelenjen meg)
+
+Bekezdés készítése (paragrafus)
+
+Soroljuk fel az összes címsort, amit ismerünk
+
+Felsorolás készítése minimum 4 lista elemmel
+
+Számozás listázással is jelenjen meg ugyan úgy 4 listaelemmel
+
+Alternatí kép beszúrása, kurzort ha ráhúzom, akkor jelenjen meg a sugóablak (title)
